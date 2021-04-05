@@ -1,4 +1,4 @@
-# Librarys: pdf2image and poppler-0.68.0
+# Library: pdf2image and poppler-0.68.0
 
 import os
 from pdf2image import convert_from_path
