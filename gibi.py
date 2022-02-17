@@ -40,25 +40,3 @@ with open('Ygr_GibiHouse.csv', encoding='utf-8') as csvfile:
 
     #close the file
     csvfile.close()
-    
-
- 
-
-    
-
-             
-
-
-
-
- 
-
-
-        
-    
-
-
-
-
-
-
