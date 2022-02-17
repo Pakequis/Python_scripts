@@ -13,7 +13,7 @@ for p in range(1,n_max):
         for s1 in range(1,n_max):
             n=s1*s2*p
             if(n <= n_max):
-                res = ((value * s1)/p)*s2
+                res = ((value * s1)/p)*s
                 error = abs(obj_value - res)            
                 if error < obj_err:
                     print ("Valor: %.3f, Erro = %.3f, N = %i, s1 = %i, s2 = %i,0 p = %i" %(res,error,n,s1,s2,p))
