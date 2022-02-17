@@ -1,7 +1,7 @@
 import csv
 import os
 
-dir_path = "D:\\projetos\\Atuais\\gibihouse\\site\\"
+dir_path = "path/to/csv/"
 
 #open the file Ygr_GibiHouse.csv with UTF-8 character map
 with open('Ygr_GibiHouse.csv', encoding='utf-8') as csvfile:
